@@ -6,8 +6,8 @@
         12526,
         300
       ],
-      "tensorPath": "https://github.com/cailmdaley/tensorboard_publish/blob/master/word2vec_vectors.tsv",
-      "metadataPath": "https://github.com/cailmdaley/tensorboard_publish/blob/master/word2vec_metadata.tsv"
+      "tensorPath": "https://raw.githubusercontent.com/cailmdaley/tensorboard_publish/master/word2vec_vectors.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/cailmdaley/tensorboard_publish/master/word2vec_metadata.tsv"
     }
   ]
 }
