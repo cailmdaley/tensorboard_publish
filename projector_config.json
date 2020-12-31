@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Discursive Distributions",
+      "tensorShape": [
+        12526,
+        300
+      ],
+      "tensorPath": "https://github.com/cailmdaley/tensorboard_publish/blob/master/word2vec_vectors.tsv",
+      "metadataPath": "https://github.com/cailmdaley/tensorboard_publish/blob/master/word2vec_metadata.tsv"
+    }
+  ]
+}
